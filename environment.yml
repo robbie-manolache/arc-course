@@ -279,6 +279,7 @@ dependencies:
       - google-api-core==2.24.1
       - google-auth==2.38.0
       - googleapis-common-protos==1.67.0
+      - graphviz==0.20.3
       - grpcio==1.70.0
       - hf-transfer==0.1.9
       - httptools==0.6.4
@@ -339,7 +340,6 @@ dependencies:
       - pydantic-core==2.27.2
       - pytest==8.3.4
       - python-dotenv==1.0.1
-      - python-graphviz==0.20.3
       - ray==2.42.1
       - regex==2024.11.6
       - rich==13.9.4
